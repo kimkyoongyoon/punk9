@@ -51,7 +51,6 @@ echo "<br><br>";
 class Setter{
 
 
-
   public $n;
   private $x  = array('a'=> 1, 'b'=> 2, 'c'=> 3);
 
